@@ -1,0 +1,3 @@
+<!--home/home.wxml-->
+<text class='title'>holle world</text>
+<button size='mini'>按钮</button>
